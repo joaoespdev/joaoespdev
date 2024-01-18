@@ -30,7 +30,7 @@
 
 ## About me:
 <ul>
-    <li><img src="https://slackmojis.com/emojis/151-javascript/download" alt="jsemoji" style="width: 17px; height: 17px;"/> I'm currently learning <strong>JavaScript</strong></li>
+    <li><img src="https://slackmojis.com/emojis/151-javascript/download" alt="jsemoji" style="width: 17px; height: 17px;"/> I'm currently learning <strong>JavaScript</strong> and <strong>Java</strong></li>
     <li>👨‍🎓 I'm currently studying at <strong>Estácio de Sá</strong></li>
     <li>🤠 I'm speak intermediate <strong>English</strong> and basic <strong>Spanish</strong> </li>
     <li>🦓 What a beautiful <strong>Zebra</strong> :D</li>   
