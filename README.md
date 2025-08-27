@@ -15,12 +15,13 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
 </div>
 <div><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" />
     <img align="center" alt="html5" src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff" />
 </div>
