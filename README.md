@@ -1,4 +1,4 @@
-<h1>Hi, I'm João Victor 👋</h1>
+<h1>Hi, I'm João Victor 🤠</h1>
 <h3>A junior developer from Brazil</h3>
 
 ##### Connect with me
