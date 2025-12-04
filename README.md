@@ -60,6 +60,6 @@
 <ul>
     <li><img src="https://slackmojis.com/emojis/84909-randomcatheartq/download" style="width: 20px; height: 20px;"/> Working on <strong>DB Server</strong></li>
     <li><img src="https://slackmojis.com/emojis/1383-typescript/download" alt="jsemoji" style="width: 17px; height: 17px;"/> I'm currently studying <strong>TypeScript</strong></li>
-    <li><img src="https://emojis.slackmojis.com/emojis/images/1710352544/90826/darkpokemonq.gif?1710352544" style="width: 17px; height: 17px;"/> I speak intermediate             <strong>English</strong> and basic <strong>Spanish</strong> </li>
+    <li><img src="https://slackmojis.com/emojis/90826-darkpokemonq/download" style="width: 17px; height: 17px;"/> I speak intermediate <strong>English</strong> and basic <strong>Spanish</strong> </li>
     <li><img src="https://slackmojis.com/emojis/12726-space_float/download" style="width: 22px; height: 22px;"/> Bachelor in progress at <strong>Estácio de Sá</strong> university</li>
 </ul>
